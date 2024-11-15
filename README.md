@@ -1,0 +1,2 @@
+The Sentimental Analysis web app offers an easy way to analyze text sentiment. Users can input text or upload CSV/TXT files. Powered by TextBlob, it computes sentiment polarity and subjectivity, providing insights into emotional tone. Results are visualized for easy interpretation, and can be downloaded in CSV format. Ideal for businesses, researchers, and individuals seeking efficient sentiment analysis.
+![image](https://github.com/user-attachments/assets/708e4b98-11a5-4459-b271-f05fe122a06b)
